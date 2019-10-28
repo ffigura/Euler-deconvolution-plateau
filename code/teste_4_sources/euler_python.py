@@ -255,6 +255,6 @@ def euler_deconv_plt(data,xi,yi,zi,shape,area,SI,windowSize):
     outz=np.pad(estz,(delta,delta),'edge').ravel()
     outb=np.pad(estb,(delta,delta),'edge').ravel()
     #group the solutions for the plateau plot
-    estimates_plt=np.stack((outx.ravel(),outy.ravel(),outz.ravel(), \ 
+    estimates_plt=np.stack((outx.ravel(),outy.ravel(),outz.ravel(), 
                             outb.ravel()),axis=-1)   
     return estimates_plt
