@@ -24,7 +24,7 @@ The figures generated can be adapted in the script `plot_functions.py`.
 
 ## Outputs:
 
-- figures - Figures 1, , 2, 3 and 4 will be saved
+- figures - Figures 1, 2, 3 and 4 will be saved
 		in this folder. 
     
 - results - the standard deviation of depth and base-level estimates and the mean of the northing, easting and depth estimates over the selected areas.
