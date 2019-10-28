@@ -7,13 +7,13 @@ Felipe F. Melo and Valéria C.F. Barbosa
 
 This paper was published in the journal *Geophysics*.
 
-This repository contains the source code to perform a synthetic test. The codes `euler_python.py`, the synthetic data `synthetic_data.dat` presented in the paper and the codes `synthetic_test.py`, `estimates_statistics.py` and `plot_functions.py` to generate the results of the synthetic test.
+This repository contains the source code to perform an additional synthetic test with four sources and a constant base level. The codes `euler_python.py`, the synthetic data `synthetic_data.dat` presented in the paper and the codes `synthetic_test.py`, `estimates_statistics.py` and `plot_functions.py` to generate the results of the synthetic test.
 
 The *euler_python* program is compatible with both Python 2.7 and Python 3.7 programming language.
  
 ## Abstract
 
-TBD
+In most applications, the Euler deconvolution aims to define the nature (type) of the geologic source (i.e., the structural index [SI]) and its depth position. However, Euler deconvolution also estimates the horizontal positions of the sources and the base level of the magnetic anomaly. To determine the correct SI, most authors take advantage of the clustering of depth estimates. We have analyzed Euler’s equation to indicate that random variables contaminating the magnetic observations and its gradients affect the base-level estimates if, and only if, the SI is not assumed correctly. Grounded on this theoretical analysis and assuming a set of tentative SIs, we have developed a new criterion for determining the correct SI by means of the minimum standard deviation of base-level estimates. We performed synthetic tests simulating multiple magnetic sources with different SIs. To produce mid and strongly interfering synthetic magnetic anomalies, we added constant and nonlinear backgrounds to the anomalies and approximated the simulated sources laterally. If the magnetic anomalies are weakly interfering, the minima standard deviations either of the depth or base-level estimates can be used to determine the correct SI. However, if the magnetic anomalies are strongly interfering, only the minimum standard deviation of the base-level estimates can determine the SI correctly. These tests also show that Euler deconvolution does not require that the magnetic data be corrected for the regional fields (e.g., International Geomagnetic Reference Field [IGRF]). Tests on real data from part of the Goiás Alkaline Province, Brazil, confirm the potential of the minimum standard deviation of base-level estimates in determining the SIs of the sources by applying Euler deconvolution either to total-field measurements or to total-field anomaly (corrected for IGRF). Our result suggests three plug intrusions giving rise to the Diorama anomaly and dipole-like sources yielding Arenópolis and Montes Claros de Goiás anomalies.
 
 ## Content
 
