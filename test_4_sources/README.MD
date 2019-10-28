@@ -13,7 +13,6 @@ and 3.7 programming language. To run the program,the numpy library is required.
 In addition, numpy is to run the complementary codes for the tests `estimates_statistics.py`
 and the matplotlib is required to run the scripts `plot_functions.py` and `synthetic_test.py`.
 
-<img src='input/prisms.tiff' width = 800>
 
 1 - Abstract
 
