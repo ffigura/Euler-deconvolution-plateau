@@ -1,6 +1,6 @@
 # Synthetic test 1 – Distinct SIs and linear magnetic base level
 
-Running the code `synthetic_test.py` will allow the reprodution of the results.
+Running the code `synthetic_test.py` will allow the reprodution of the results for SIs = 1, 2 and 3.
 The figures generated can be adapted in the script `plot_functions.py`.
 
 ## Input:
