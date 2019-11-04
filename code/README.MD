@@ -136,7 +136,7 @@ files are distributed under the following license agreement:
 
 BSD 3-clause license
 
-Copyright (c) 2019 Felipe F. Melo and Valéria C.F. Barbosa.
+Copyright (c) 2019 Felipe F. Melo.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
