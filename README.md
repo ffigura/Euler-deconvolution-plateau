@@ -5,7 +5,8 @@ Felipe F. Melo and Valéria C.F. Barbosa
 
 ## About
 
-This paper was published in the journal *Geophysics*.
+This paper was published in Melo, F.F., Barbosa, V.C.F., 2018. Correct structural index in Euler deconvolution via
+base-level estimates. Geophysics 83 (6), J87–J98.
 
 This repository contains the source code to perform an additional synthetic test with four sources and a constant base level. The codes `euler_python.py`, the synthetic data `synthetic_data.dat` presented in the paper and the codes `synthetic_test.py`, `estimates_statistics.py` and `plot_functions.py` to generate the results of the synthetic test.
 
